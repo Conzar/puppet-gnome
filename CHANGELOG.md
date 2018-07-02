@@ -1,3 +1,12 @@
+## 2018-07-03 - Release 0.3.0
+  - Updated to support puppet 4 and 5.
+  - Added parameter types
+  - Changed from chaining arrows to relationship metaparameters
+  - Added anchor pattern
+  - Removed gconf
+  - Updated readme with gconf removal
+  - Added quotes around the value in the schema configuration file.
+
 ## 2016-08-17 - Release 0.2.0
 
 - Update test framework
